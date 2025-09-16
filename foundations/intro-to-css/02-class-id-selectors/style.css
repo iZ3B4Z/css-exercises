@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.exampleClass{
+    background-color: rgb(255, 167, 167);
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
+
+.exampleClass.butCooler{
+    font-size: 24px;
+}
+
+#firstID{
+    color: blue;
+    font-size: 38px;
+}
+
+#anotherID{
+    background-color: cadetblue;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
